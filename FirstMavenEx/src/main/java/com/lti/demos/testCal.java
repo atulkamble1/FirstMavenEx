@@ -7,6 +7,7 @@ public class testCal {
 		Calculator c = new Calculator();
 		int r=c.add(300, 100);
 		System.out.println(r);
+		System.out.println("Third line added");
 	}
 
 }
